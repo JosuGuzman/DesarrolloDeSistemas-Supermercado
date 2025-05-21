@@ -1,0 +1,15 @@
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.exe
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.deps.json
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.runtimeconfig.json
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.dll
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\bin\Debug\net8.0\Supermercado.pdb
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.AssemblyInfo.cs
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.sourcelink.json
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.dll
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\obj\Debug\net8.0\refint\Supermercado.dll
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.pdb
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\obj\Debug\net8.0\Supermercado.genruntimeconfig.cache
+C:\Users\Lab15-PC01\Documents\GitHub\DesarrolloDeSistemas-Supermercado\DesarrolloDeSistemas-Supermercado\Supermercado\obj\Debug\net8.0\ref\Supermercado.dll
