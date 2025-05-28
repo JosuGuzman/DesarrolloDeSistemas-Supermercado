@@ -18,7 +18,7 @@ class Program
             Console.WriteLine("4. Buscar producto");
             Console.WriteLine("5. Mostrar todos los productos");
             Console.WriteLine("6. Mostrar productos vencidos");
-            Console.WriteLine("0. Salir");
+            Console.WriteLine("0. Salir:");
             Console.Write("📌 Seleccione una opción: ");
             string opcion = Console.ReadLine();
 
