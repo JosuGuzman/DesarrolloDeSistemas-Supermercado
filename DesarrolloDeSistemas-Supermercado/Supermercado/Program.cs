@@ -96,7 +96,7 @@ class Program
         Console.Write("Nuevo precio: ");
         decimal precio = decimal.Parse(Console.ReadLine());
 
-        Console.Write("Nuevo proveedor: ");
+        Console.Write("Nuevo vendedor ");
         string proveedor = Console.ReadLine();
 
         Console.Write("Nueva fecha de vencimiento (yyyy-mm-dd o enter si no aplica): ");
